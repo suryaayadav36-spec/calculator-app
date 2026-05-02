@@ -210,4 +210,4 @@ https://github.com/suryaayadav36-spec/calculator-app
 
 ## License
 
-No license file is currently included. Add a license before distributing or reusing this project publicly.
+This project is licensed under the MIT License. See `LICENSE` for details.
